@@ -1,4 +1,4 @@
-## MSFS In-Game Panel for EFB
+## MSFS 2024 In-Game Panel for EFB
 
 This add-on adds an **in-game panel** with the default tablet (EFB). The goal of this project is to provide a temporary solution while the MSFS VR mode bug with the EFB is not fixed.
 
