@@ -4,7 +4,7 @@ This add-on adds an **in-game panel** with the default tablet (EFB). The goal of
 
 ### 📌 Installation
 
-1. **Download and extract** the archive (available in the [Releases](#)) into the `Community` folder.
+1. **Download and extract** the archive (available in the [Releases](https://github.com/buzinin/msfs2024-efb-panel/releases/)) into the `Community` folder.
     - **Steam version:** `C:\Users[Your Username]\AppData\Roaming\Microsoft Flight Simulator 2024\Packages\Community`
     - **MS Store version:** `C:\Users[Your Username]\AppData\Local\Packages\Microsoft.Limitless_8wekyb3d8bbwe\LocalCache\Packages\Community`
 2. **Start MSFS** and go to the **control settings** to assign a key for opening the toolbar.
@@ -22,4 +22,4 @@ This add-on adds an **in-game panel** with the default tablet (EFB). The goal of
     1. Click the **gear icon** in the toolbar.
     2. Toggle off **EFB Panel**.
 - If issues persist, **remove the add-on** from the `Community` folder and restart MSFS.
-- Found a bug? **Report it** in the [Issues](#) section of this repository.  
+- Found a bug? **Report it** in the [Issues](https://github.com/buzinin/msfs2024-efb-panel/issues) section of this repository.  
