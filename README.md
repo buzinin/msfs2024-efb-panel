@@ -1,0 +1,1 @@
+# msfs2024-efb-panel
