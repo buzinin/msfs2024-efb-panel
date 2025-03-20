@@ -5,8 +5,8 @@ This add-on adds an **in-game panel** with the default tablet (EFB). The goal of
 ### 📌 Installation
 
 1. **Download and extract** the archive (available in the [Releases](#)) into the `Community` folder.
-    - **Steam version:** `C:\Users\YourUsername\AppData\Roaming\Microsoft Flight Simulator\Packages\Community`
-    - **MS Store version:** `C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community`
+    - **Steam version:** `C:\Users[Your Username]\AppData\Roaming\Microsoft Flight Simulator 2024\Packages\Community`
+    - **MS Store version:** `C:\Users[Your Username]\AppData\Local\Packages\Microsoft.Limitless_8wekyb3d8bbwe\LocalCache\Packages\Community`
 2. **Start MSFS** and go to the **control settings** to assign a key for opening the toolbar.
 3. **Launch a flight.**
 4. To open the panel, **click the "EFB PANEL" icon** in the toolbar or use the default EFB hotkey.
